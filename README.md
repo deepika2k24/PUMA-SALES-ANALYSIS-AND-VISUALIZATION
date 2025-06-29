@@ -12,14 +12,13 @@ The dataset is sourced from an Excel file and contains structured data on:
 - Operating Profit
 
 ## 📈 Visualizations Included
-
-1. **Line Chart** – Trends of Monthly Total Sales & Operating Profit  
+1. **Horizontal Bar Chart** – Top 10 Cities by Operating Profit  
 2. **Grouped Bar Chart** – Sales vs Profit by Sales Method  
-3. **Pie Chart** – Product-wise Sales Distribution  
-4. **Heatmap** – Product-wise Sales across States  
-5. **TreeMap** – Hierarchical Sales Breakdown (Region → State → City)  
-6. **Race Bar Chart** – Animated Sales Race by City over Time  
-7. **Horizontal Bar Chart** – Top 10 Cities by Operating Profit
+3. **Line Chart** – Monthly Trends of Total Sales & Operating Profit  
+4. **Race Bar Chart** – Animated Sales Race by City Over Time  
+5. **Heatmap** – Product-wise Sales Across States  
+6. **TreeMap** – Hierarchical Sales Breakdown (Region → State → City)  
+7. **Pie Chart** – Product-wise Sales Distribution
 
 All charts are built using **Plotly Express** and **Plotly Graph Objects** for interactivity and beauty 🎨
 
